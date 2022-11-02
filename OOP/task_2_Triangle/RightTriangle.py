@@ -1,4 +1,4 @@
-from OOP.Vector.Vector3D import Vector3D
+from OOP.task_1_Vector.Vector3D import Vector3D
 import math
 
 
